@@ -1,0 +1,18 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "api_secret": "YOUR_API_SECRET",
+  "symbol": "BTCUSDT",
+  "interval": "1m",
+  "leverage": 3,
+  "base_order_usdt": 20,
+  "ema_fast": 7,
+  "ema_slow": 25,
+  "take_profit_pct": 0.006,
+  "stop_loss_pct": 0.004,
+  "lose_streak_cooldown": 3,
+  "cooldown_minutes": 15,
+  "win_streak_increase": 2,
+  "win_increase_factor": 0.1,
+  "min_order_usdt": 5,
+  "use_testnet": true
+}
